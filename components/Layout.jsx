@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
     <div className="layout">
       <Head>
         <title>MG Store</title>
-        <link rel="icon" type="image/png" sizes="114x114" href="../public/favicon.png" />
+        <link rel="icon" type="image/png" href="../public/favicon.png" />
       </Head>
       <header>
         <NavBar />

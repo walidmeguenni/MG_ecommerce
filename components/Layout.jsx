@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
     <div className="layout">
       <Head>
         <title>MG Store</title>
-        <link rel="shortcut  icon" type="image/png" href="../public/favicon.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
         <NavBar />
